@@ -1,0 +1,40 @@
+.text-center{
+    text-align: center;
+}
+
+.bg-teal{
+    background-color: teal;
+    border: 2px solid rgb(77, 133, 133) ;
+    box-shadow: 2px 2px 10px rgb(3, 148, 148);
+}
+.mx-auto{
+    margin: 0 3px;
+
+
+}
+
+.flex{
+    display: flex;
+    
+}
+.flex-col{
+    flex-direction: column;
+}
+.item-center{
+    justify-content: center;
+    align-items: center;
+}
+.equal-dist{
+    justify-content: space-around;
+}
+.orange{
+    color: rgb(255, 98, 0);
+}
+.orange-bg{
+    background-color: rgb(255, 98, 0) ;
+    color: white;
+}
+.circle-border{
+    border-radius: 100px;
+
+}
